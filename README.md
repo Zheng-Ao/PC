@@ -1,2 +1,9 @@
 # PC
-All the config files to build my personal computer.
+## VPN
+
+
+
+
+# VSCode
+使用github账号登录；
+关闭minimap；
